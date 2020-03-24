@@ -1,0 +1,23 @@
+{
+  "": {
+    "swift-dependencies": "/Users/anirudhbandi/Desktop/SETabView/.build/x86_64-apple-macosx/debug/SETabView.build/master.swiftdeps"
+  },
+  "/Users/anirudhbandi/Desktop/SETabView/Source/Helper.swift": {
+    "dependencies": "/Users/anirudhbandi/Desktop/SETabView/.build/x86_64-apple-macosx/debug/SETabView.build/Helper.d",
+    "object": "/Users/anirudhbandi/Desktop/SETabView/.build/x86_64-apple-macosx/debug/SETabView.build/Helper.swift.o",
+    "swiftmodule": "/Users/anirudhbandi/Desktop/SETabView/.build/x86_64-apple-macosx/debug/SETabView.build/Helper~partial.swiftmodule",
+    "swift-dependencies": "/Users/anirudhbandi/Desktop/SETabView/.build/x86_64-apple-macosx/debug/SETabView.build/Helper.swiftdeps"
+  },
+  "/Users/anirudhbandi/Desktop/SETabView/Source/SETabView.swift": {
+    "dependencies": "/Users/anirudhbandi/Desktop/SETabView/.build/x86_64-apple-macosx/debug/SETabView.build/SETabView.d",
+    "object": "/Users/anirudhbandi/Desktop/SETabView/.build/x86_64-apple-macosx/debug/SETabView.build/SETabView.swift.o",
+    "swiftmodule": "/Users/anirudhbandi/Desktop/SETabView/.build/x86_64-apple-macosx/debug/SETabView.build/SETabView~partial.swiftmodule",
+    "swift-dependencies": "/Users/anirudhbandi/Desktop/SETabView/.build/x86_64-apple-macosx/debug/SETabView.build/SETabView.swiftdeps"
+  },
+  "/Users/anirudhbandi/Desktop/SETabView/Source/SEViewController.swift": {
+    "dependencies": "/Users/anirudhbandi/Desktop/SETabView/.build/x86_64-apple-macosx/debug/SETabView.build/SEViewController.d",
+    "object": "/Users/anirudhbandi/Desktop/SETabView/.build/x86_64-apple-macosx/debug/SETabView.build/SEViewController.swift.o",
+    "swiftmodule": "/Users/anirudhbandi/Desktop/SETabView/.build/x86_64-apple-macosx/debug/SETabView.build/SEViewController~partial.swiftmodule",
+    "swift-dependencies": "/Users/anirudhbandi/Desktop/SETabView/.build/x86_64-apple-macosx/debug/SETabView.build/SEViewController.swiftdeps"
+  }
+}

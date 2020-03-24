@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.1 (swiftlang-1100.0.270.13 clang-1100.0.33.7)"
+options: "56d321b6966442107c4e4f15172ed774"
+build_time: [1585009023, 851578000]
+inputs:
+  "/Users/anirudhbandi/Desktop/SETabView/Source/Helper.swift": !dirty [1585008166, 566177631]
+  "/Users/anirudhbandi/Desktop/SETabView/Source/SETabView.swift": !dirty [1585008166, 566501143]
+  "/Users/anirudhbandi/Desktop/SETabView/Source/SEViewController.swift": !dirty [1585008166, 566797510]
